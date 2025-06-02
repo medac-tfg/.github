@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![CartX Logo](/cartx.png)
+![CartX Logo](./cartx.png)
 
 **Trabajo de Fin de Grado - DAM (Desarrollo de Aplicaciones Multiplataforma)**  
 **MEDAC Davante Elche | Curso 2023-2025**
